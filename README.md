@@ -1,2 +1,2 @@
-# TF2-Nobleford
-All files/assets for the KOTH map Nobleford
+# Nobleford (ALPHA)
+This branch contains any alpha maps for Nobleford. Feedback is appreciated!
